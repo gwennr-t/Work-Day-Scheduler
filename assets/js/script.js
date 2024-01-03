@@ -26,8 +26,8 @@ function addClass() {
 addClass();
 
 // event listener for click events on the save button and save content to local storage
-// $('.btn').on('click',function(){
-//     var keyName = $this.
-//     var keyValue = $this.
-//     localStorage.setItem(keyName, keyValue);
-// })
+$('.btn').on('click',function(){
+    var keyName = $this.parent().attr('id').split('-');
+    var keyValue = $this.parent().find('.description').val();
+    localStorage.setItem(keyName, keyValue);
+})

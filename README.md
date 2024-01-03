@@ -9,3 +9,4 @@ https://gwennr-t.github.io/Work-Day-Scheduler/
 
 <h1>Screenshot</h1>
 
+![gwennr-t github io_Work-Day-Scheduler_](https://github.com/gwennr-t/Work-Day-Scheduler/assets/150493048/1d745265-e5f2-4f5d-b28e-74726ef761e8)
